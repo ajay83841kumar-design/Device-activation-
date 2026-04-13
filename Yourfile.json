@@ -64,7 +64,7 @@
         "key": "abc123",
         "expirydate": "23-04-2026",
         "Allowoffline": false
-    } 
+    }, 
     {
         "device_id": "453542c273d757eb",
         "key": "12345",
